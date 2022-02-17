@@ -1,24 +1,17 @@
-# README
+# Blog App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Installation
+- clone the app
+- Navigate to the directory and run
+````
+cd hostapp
+$ bin/setup
+````
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Running the app
+```
+$ rails s
+```
+- Create account or login
+- You can create a post, edit and delete it.
+- You can also comment on a post.
