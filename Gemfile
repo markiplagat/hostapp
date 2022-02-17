@@ -10,6 +10,7 @@ gem 'devise'
 # Use Puma as the app server
 gem 'puma', '~> 5.0'
 gem 'bootstrap', '~> 4.6.0'
+gem 'mimemagic', github: 'mimemagicrb/mimemagic', ref: '01f92d86d15d85cfd0f20dabd025dcbd36a8a60f'
 # gem 'bootstrap-sass'
 # gem 'bootstrap'
 # Use SCSS for stylesheets
